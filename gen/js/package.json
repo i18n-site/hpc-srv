@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@3-/protoscript": "^0.0.50",
+    "-/lib": "file:../../../web/lib"
+  }
+}
